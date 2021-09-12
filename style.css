@@ -1,0 +1,122 @@
+
+#header {
+    height:120px;
+    width: auto;
+    border: 2px black solid;
+    background-color: #3D5B99;
+    margin-top: 0px;  
+}
+
+.facebook {
+    color: white;
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 27px;    
+}
+
+.form {
+   float: righ
+    border: 2px black solid;
+    position: absolute;
+    right: 30px;
+    top: 65px;   
+}
+
+#login {
+    
+}
+
+.field {
+    height: 20px;
+    
+}
+
+#sitebody {
+    background-color: #EDF0F5;
+}
+
+#div1 h1{
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #2F3A4A;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+
+#div1 {
+    background-color: #EDF0F5;
+}
+
+#features {
+    
+}
+
+.pont1 {
+    font-family: sans-serif;
+    margin-left: 70px;
+    
+}
+
+
+.icon1 {
+  position: absolute;
+    margin-top: 15px;
+    margin-left: 25px;
+    
+}
+
+
+.deficon1 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 100px;
+    background-color: #EDF0F5;
+}
+
+#feature2 {
+    
+    position: absolute;
+    margin-top: 50px;
+    margin-right: 0px;
+    
+
+}
+
+.icon2 {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 25px;
+    padding-top: 15px;
+}
+
+.deficon2 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 100px;
+    background-color: #EDF0F5;
+    
+}
+}
+
+#feature3 {
+     position: absolute;
+    margin-top: 50px;
+    margin-right: 0px;
+    
+}
+
+.deficon3 {
+      position: absolute;
+    margin-top: 150px;
+    margin-left: 100px;
+    background-color: #EDF0F5;
+}
+
+.icon3 {
+  position: absolute;
+    margin-top: 140px;
+    margin-left: 25px;
+    padding-top: 15px;  
+}
